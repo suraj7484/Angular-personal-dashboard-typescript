@@ -1,0 +1,10 @@
+# === Rules for `node_modules` ===
+!**/node_modules/**
+/node_modules
+/angular-personal-dashboard/node_modules
+
+# === Rules for ` angular sub modules ` ===
+/angular-personal-dashboard/.angular
+/angular-personal-dashboard/.vscode
+/angular-personal-dashboard/.env
+/angular-personal-dashboard/package-lock.json
